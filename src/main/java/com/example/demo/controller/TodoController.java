@@ -13,6 +13,6 @@ public class TodoController {
 
     @GetMapping("/api/v1/user")
     public String getUserId() {
-            return "82058454"; // 사번
+            return "82267289"; // 사번
     }
 }
